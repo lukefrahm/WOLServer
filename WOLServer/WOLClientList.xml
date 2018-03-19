@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<clients>
+	<client>
+		<host_name>MS-HYPV</host_name>
+		<ip_address>10.0.1.1</ip_address>
+		<critical_system>1</critical_system>
+		<mac_addresses>
+			<mac_address></mac_address>
+		</mac_addresses>
+	</client>
+	<client>
+		<host_name></host_name>
+		<ip_address></ip_address>
+		<critical_system></critical_system>
+		<mac_addresses>
+			<mac_address></mac_address>
+		</mac_addresses>
+	</client>
+	<client>
+		<host_name></host_name>
+		<ip_address></ip_address>
+		<critical_system></critical_system>
+		<mac_addresses>
+			<mac_address></mac_address>
+		</mac_addresses>
+	</client>
+</clients>
